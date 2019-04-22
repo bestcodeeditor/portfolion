@@ -1,0 +1,32 @@
+[
+  {
+    "name": "TGS solution",
+    "description": "The TGS solution is a  website for a software development company which deals with website development,custom software development ,ecommerce platform development etc. The website is built using next js framework. ",
+    "image": "images/prof1.jpg",
+    "link": "http://35.169.154.91:3000/"
+  },
+  {
+    "name": "Regular taste",
+    "description": "Today we are living in such a world where everyone wants to get what he/she wishes by one click, how about if we get hygenic foods at our door steps only by ordering from online with one click.Regular taste is a caffeshop website which brings customer closer to it.",
+    "image": "images/prof2.jpg",
+    "link": "https://regulartaste.netlify.com/"
+  },
+  {
+    "name": "Wecorporate",
+    "description": "The Wecorporate is a agency website which deals with digital marketing ,SEO ,Content marketing etc.  The website is built using next js framework and styled component.",
+    "image": "images/prof3.jpg"
+  },
+
+  {
+    "name": "Spicein",
+    "description": "Spice in is a beautiful restaurant website for your business build with innovative ideas.Fine dining , casual eateries can be easily done by just viewing the menu section.  ",
+    "image": "images/prof5.jpg",
+    "link": "https://spicein.netlify.com/"
+  },
+  {
+    "name": "The cookbook",
+    "description": "Cooking becomes a very elegant profession now a days.But its very difficult for beginners as they dont know how do they start.The cookbook helps them out by blogging delicious recipies.",
+    "image": "images/prof9.png",
+    "link": "https://thecookbook.netlify.com/"
+  }
+]
