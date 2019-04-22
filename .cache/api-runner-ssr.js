@@ -1,17 +1,17 @@
 var plugins = [{
-      plugin: require('F:/gatsby/portfolion/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('F:/gatsby/portfolion/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('F:/gatsby/portfolion/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-138572525-1","head":true},
     },{
-      plugin: require('F:/gatsby/portfolion/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Sudip Lahiri, React Developer","short_name":"Sudip","start_url":"/","display":"standalone","icon":"F:\\gatsby\\portfolion/src/static/images/sudip.png","icons":[{"src":"/images/sudip.png","sizes":"48x48","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"192x192","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"512x512","type":"image/jpg"}]},
+      plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Sudip Lahiri, React Developer","short_name":"Sudip","start_url":"/","display":"standalone","icon":"E:\\2019 projects\\Gatsby\\portfolion/src/static/images/sudip.png","icons":[{"src":"/images/sudip.png","sizes":"48x48","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"192x192","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"512x512","type":"image/jpg"}]},
     },{
-      plugin: require('F:/gatsby/portfolion/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
