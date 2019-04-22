@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 import Header from "../components/header";
 import Projects from "../components/project";
 import Contact from "../components/contact";
-import Footer from "../components/Footer";
+import Footer from "../components/footer";
 import About from "../components/about";
 import Banner from "../components/banner1";
 import "bootstrap/dist/css/bootstrap.css";
