@@ -10,11 +10,6 @@ const {
   googleAnalyticsID
 } = require("./site-config");
 module.exports = {
-  siteMetadata: {
-    title: siteTitle,
-    description: siteDescription,
-    siteUrl: siteUrl
-  },
   plugins: [
     {
       resolve: "gatsby-source-filesystem",
