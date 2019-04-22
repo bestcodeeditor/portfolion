@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "styled-components": "^4.2.0",
+    "bootstrap": "^4.3.1",
     "babel-plugin-styled-components": "^1.10.0",
     "gatsby": "^2.0.33",
     "gatsby-image": "^2.0.25",
@@ -30,6 +31,7 @@
     "gatsby-transformer-json": "^2.1.6",
     "gatsby-transformer-sharp": "^2.1.9",
     "gatsby-plugin-styled-components": "^3.0.7",
+    "gatsby-plugin-purgecss": "^3.1.1",
     "path": "^0.12.7",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
