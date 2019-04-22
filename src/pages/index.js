@@ -1,7 +1,5 @@
 import React from "react";
 import Helmet from "react-helmet";
-// import { graphql } from "gatsby"
-// import Img from "gatsby-image"
 
 import Header from "../components/header";
 import Projects from "../components/project";

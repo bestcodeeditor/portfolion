@@ -1304,12 +1304,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-22T09:25:37.946Z",
+      "buildTime": "2019-04-22T10:22:43.622Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1aa974738bc8495f9d92694bf6ff84c1",
+        "contentDigest": "9ecb91041ffe8affdec0511d3f56feb8",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1762,7 +1762,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "234166d65aca84fb9228d940114262cf",
+        "contentDigest": "4ced47edb085a93425a50bc7c4268d83",
         "type": "Directory",
         "description": "Directory \"data\"",
         "owner": "gatsby-source-filesystem"
@@ -1774,7 +1774,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:20:41.707Z",
-      "accessTime": "2019-04-22T09:25:46.631Z",
+      "accessTime": "2019-04-22T10:22:53.979Z",
       "changeTime": "2019-04-22T09:20:41.707Z",
       "birthTime": "2019-04-22T09:20:41.705Z",
       "root": "E:/",
@@ -1790,11 +1790,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979823808,
-      "atimeMs": 1555925146630.668,
+      "atimeMs": 1555928573979.4036,
       "mtimeMs": 1555924841706.5505,
       "ctimeMs": 1555924841706.5505,
       "birthtimeMs": 1555924841704.5127,
-      "atime": "2019-04-22T09:25:46.631Z",
+      "atime": "2019-04-22T10:22:53.979Z",
       "mtime": "2019-04-22T09:20:41.707Z",
       "ctime": "2019-04-22T09:20:41.707Z",
       "birthtime": "2019-04-22T09:20:41.705Z"
@@ -1804,7 +1804,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e80b64047c6820d8c1b3136145d8f6ae",
+        "contentDigest": "13884850eca29da3b83e6579eb1c3ecc",
         "type": "Directory",
         "description": "Directory \"data\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1816,7 +1816,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:20:41.720Z",
-      "accessTime": "2019-04-22T09:25:46.632Z",
+      "accessTime": "2019-04-22T10:22:53.980Z",
       "changeTime": "2019-04-22T09:20:41.720Z",
       "birthTime": "2019-04-22T09:20:41.707Z",
       "root": "E:/",
@@ -1832,11 +1832,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979823810,
-      "atimeMs": 1555925146631.669,
+      "atimeMs": 1555928573980.4055,
       "mtimeMs": 1555924841719.7332,
       "ctimeMs": 1555924841719.7332,
       "birthtimeMs": 1555924841706.5505,
-      "atime": "2019-04-22T09:25:46.632Z",
+      "atime": "2019-04-22T10:22:53.980Z",
       "mtime": "2019-04-22T09:20:41.720Z",
       "ctime": "2019-04-22T09:20:41.720Z",
       "birthtime": "2019-04-22T09:20:41.707Z"
@@ -2459,7 +2459,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cf6a82d17e12c35cdd5cc49eb4140537",
+        "contentDigest": "9e1cc1d9f47d574c8d5d0da3f8c80bef",
         "type": "Directory",
         "description": "Directory \"src\\static\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -2471,7 +2471,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:21:44.120Z",
-      "accessTime": "2019-04-22T09:25:46.693Z",
+      "accessTime": "2019-04-22T10:22:54.081Z",
       "changeTime": "2019-04-22T09:21:44.120Z",
       "birthTime": "2019-04-22T09:21:44.115Z",
       "root": "E:/",
@@ -2487,11 +2487,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979869615,
-      "atimeMs": 1555925146692.8315,
+      "atimeMs": 1555928574080.6726,
       "mtimeMs": 1555924904120.3887,
       "ctimeMs": 1555924904120.3887,
       "birthtimeMs": 1555924904115.3752,
-      "atime": "2019-04-22T09:25:46.693Z",
+      "atime": "2019-04-22T10:22:54.081Z",
       "mtime": "2019-04-22T09:21:44.120Z",
       "ctime": "2019-04-22T09:21:44.120Z",
       "birthtime": "2019-04-22T09:21:44.115Z"
@@ -2501,7 +2501,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9417719ccc04879762e70c5b368c0921",
+        "contentDigest": "60937edca33f1cfc9d18cd4d04b911a4",
         "type": "Directory",
         "description": "Directory \"src\\static\\images\\portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -2513,7 +2513,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:21:44.136Z",
-      "accessTime": "2019-04-22T09:25:46.685Z",
+      "accessTime": "2019-04-22T10:22:54.071Z",
       "changeTime": "2019-04-22T09:21:44.136Z",
       "birthTime": "2019-04-22T09:21:44.120Z",
       "root": "E:/",
@@ -2529,11 +2529,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979869621,
-      "atimeMs": 1555925146684.8076,
+      "atimeMs": 1555928574070.6453,
       "mtimeMs": 1555924904136.4329,
       "ctimeMs": 1555924904136.4329,
       "birthtimeMs": 1555924904120.3887,
-      "atime": "2019-04-22T09:25:46.685Z",
+      "atime": "2019-04-22T10:22:54.071Z",
       "mtime": "2019-04-22T09:21:44.136Z",
       "ctime": "2019-04-22T09:21:44.136Z",
       "birthtime": "2019-04-22T09:21:44.120Z"
