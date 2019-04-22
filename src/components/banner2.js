@@ -24,8 +24,10 @@ const Hero = props => (
         }}
       >
         <p className="orange-text">
-          Hi I am Sudip Lahiri a fullstack developer
-          <span className="hero__body--break">have a vision of IT world, </span>
+          Hi I am Sudip Lahiri a fullstack engineer
+          <span className="hero__body--break">
+            I love coding and contineous research & development{" "}
+          </span>
           <span className="hero__body--break">
             <strong>Lets Work together</strong>
           </span>
