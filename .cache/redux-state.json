@@ -1,0 +1,3617 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "F:/gatsby/portfolion/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "F:/gatsby/portfolion/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2b26de3320c283dc1825268c6b0bfa86",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cbc006c322e57f30a1630a29abdb4bd1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "70c6e757b5b01b7c0b80c91423c310d3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e4196924c2f6fb69a1e3bc58f2984a0f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4a9cda2fa48314925bf2683b3a916d32",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2b5adec13a1ac816a772c76533bf17ee",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ce8cd9d35bf1165ada1c590f72a7f747",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c583f509-4101-5ef7-9914-5c75e0f4a3b4": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-source-filesystem",
+      "id": "c583f509-4101-5ef7-9914-5c75e0f4a3b4",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "data",
+        "path": "F:\\gatsby\\portfolion/data"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.12",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "924b20aded88ed7d51c7a7c4ae8afa01",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84e49d28-95f0-5bee-96ef-e91e17c2fb47": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-source-filesystem",
+      "id": "84e49d28-95f0-5bee-96ef-e91e17c2fb47",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "image",
+        "path": "F:\\gatsby\\portfolion/src/static/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.12",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "da8686215a2f4b3d925ac4ce3da62500",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6aa321d5-19bf-5a36-99ac-3b6091585e24": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-transformer-json",
+      "id": "6aa321d5-19bf-5a36-99ac-3b6091585e24",
+      "name": "gatsby-transformer-json",
+      "version": "2.1.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-transformer-json",
+      "packageJson": {
+        "name": "gatsby-transformer-json",
+        "description": "Gatsby transformer plugin for JSON files",
+        "version": "2.1.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "json"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">=2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f636b097e58cc5d640b5485f1a61cbc6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9ce79f6b02837b028390951a33eb170a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.9",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ac051b574c397610a18dce8d5f6a6ee8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3d9f7ef981f6779ada0fff575d7244de",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d5c18d83-6ae2-52f0-a3bf-a892203bde4f": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-styled-components",
+      "id": "d5c18d83-6ae2-52f0-a3bf-a892203bde4f",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.2.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">=2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5876fef039407578bdd98b8c98a1a59e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a25cf178-aee7-5bfe-a0c0-36e7577b1012": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-google-analytics",
+      "id": "a25cf178-aee7-5bfe-a0c0-36e7577b1012",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-138572525-1",
+        "head": true
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6801671263d6d25f811351242bb605cf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7d720a34-2bd8-58bf-a480-19c98edde0ce": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-purgecss",
+      "id": "7d720a34-2bd8-58bf-a480-19c98edde0ce",
+      "name": "gatsby-plugin-purgecss",
+      "version": "2.1.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-purgecss",
+      "packageJson": {
+        "name": "gatsby-plugin-purgecss",
+        "description": "Gatsby plugin for purgecss. Removes unused css/sass/less/stylus from files and modules.",
+        "version": "2.1.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "css",
+          "sass",
+          "scss",
+          "stylus",
+          "less",
+          "optimize",
+          "clean",
+          "purgecss",
+          "purify",
+          "purifycss"
+        ],
+        "author": "Ananto Ghosh",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "loader-utils",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "purgecss",
+            "version": "^1.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "6.26.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "1.7.0"
+          },
+          {
+            "name": "coveralls",
+            "version": "3.0.2"
+          },
+          {
+            "name": "dotenv",
+            "version": "6.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "7.0.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "2.0.0-beta.99"
+          },
+          {
+            "name": "gatsby-plugin-less",
+            "version": "2.0.0-beta.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "2.0.0-beta.10"
+          },
+          {
+            "name": "gatsby-plugin-stylus",
+            "version": "2.0.0-beta.6"
+          },
+          {
+            "name": "jest",
+            "version": "23.5.0"
+          },
+          {
+            "name": "less",
+            "version": "3.8.1"
+          },
+          {
+            "name": "node-sass",
+            "version": "4.9.3"
+          },
+          {
+            "name": "react",
+            "version": "16.4.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "16.4.2"
+          },
+          {
+            "name": "release-it",
+            "version": "7.5.0"
+          },
+          {
+            "name": "runjs",
+            "version": "4.3.2"
+          },
+          {
+            "name": "symlink-dir",
+            "version": "1.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-beta"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "18b22e9b12024986cec1314ec7f7b089",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "dd78cce2-1fc4-5dd8-b2d2-f22c2a715101": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-manifest",
+      "id": "dd78cce2-1fc4-5dd8-b2d2-f22c2a715101",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Sudip Lahiri, React Developer",
+        "short_name": "Sudip",
+        "start_url": "/",
+        "display": "standalone",
+        "icon": "F:\\gatsby\\portfolion/src/static/images/sudip.png",
+        "icons": [
+          {
+            "src": "/images/sudip.png",
+            "sizes": "48x48",
+            "type": "image/jpg"
+          },
+          {
+            "src": "/images/sudip.png",
+            "sizes": "192x192",
+            "type": "image/jpg"
+          },
+          {
+            "src": "/images/sudip.png",
+            "sizes": "512x512",
+            "type": "image/jpg"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b50cd4e2da02c761193a0a01561c23df",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "43d7460a-44bb-5a12-b10c-a31b67565904": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-robots-txt",
+      "id": "43d7460a-44bb-5a12-b10c-a31b67565904",
+      "name": "gatsby-plugin-robots-txt",
+      "version": "1.3.0",
+      "pluginOptions": {
+        "plugins": [],
+        "host": "www.sudiplahiri.com",
+        "sitemap": "www.sudiplahiri.com/sitemap.xml",
+        "policy": [
+          {
+            "userAgent": "*",
+            "disallow": ""
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-robots-txt",
+      "packageJson": {
+        "name": "gatsby-plugin-robots-txt",
+        "description": "Gatsby plugin that automatically creates robots.txt for your site",
+        "version": "1.3.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Marat Dreizin <marat.dreizin@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "generate-robotstxt",
+            "version": "^5.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.3"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-runtime",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "eslint-plugin-babel",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "eslint-plugin-markdown",
+            "version": "^1.0.0-beta.6"
+          },
+          {
+            "name": "jest",
+            "version": "^22.4.3"
+          },
+          {
+            "name": "memory-fs",
+            "version": "^0.4.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.12.1"
+          },
+          {
+            "name": "semantic-release",
+            "version": "^15.1.7"
+          },
+          {
+            "name": "travis-deploy-once",
+            "version": "^5.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8bb497e176b2365d04ec8268f3d871a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9ccc7860-87fc-53f6-a439-0a4dc02836bd": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-sitemap",
+      "id": "9ccc7860-87fc-53f6-a439-0a4dc02836bd",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.3",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "679918831634d02465c6471700f233c3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.19",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.19",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">=2.0.53"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0605a514253f127bd8d408c2d88aa507",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "F:/gatsby/portfolion",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "305c6bed16b9dd77e12096acecbdb885",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion",
+      "packageJson": {
+        "name": "sudip",
+        "description": "Sudip lahiri",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby",
+          "gatsby mojaave",
+          "mahipat portfolio"
+        ],
+        "author": "sudip lahiri <bestcodeeditor@gmail.com>",
+        "dependencies": [
+          {
+            "name": "styled-components",
+            "version": "^4.2.0"
+          },
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.10.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.12"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.19"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-plugin-robots-txt",
+            "version": "^1.3.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.15"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.12"
+          },
+          {
+            "name": "gatsby-transformer-json",
+            "version": "^2.1.6"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.9"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.7"
+          },
+          {
+            "name": "path",
+            "version": "^0.12.7"
+          },
+          {
+            "name": "react",
+            "version": "^16.3.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.3.2"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons",
+            "version": "^3.6.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "bootstrap",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "gatsby-plugin-purgecss",
+            "version": "^2.0.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "700382338bb63685e29471ca326d0ba7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "0631a192-23d3-5e9f-a21e-899e4ee3ae2d": {
+      "resolve": "F:/gatsby/portfolion/node_modules/gatsby-plugin-page-creator",
+      "id": "0631a192-23d3-5e9f-a21e-899e4ee3ae2d",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "F:/gatsby/portfolion/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "F:/gatsby/portfolion/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b9314326fd57777ee7360491f9507e37",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Sudip Lahiri, React Developer",
+        "description": "I'm Sudip Lahiri, Fullstack developer, I'm working with clients from India and USA to build reliable, fast, engaging & responsive websites using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby, Angular, Typescript",
+        "siteUrl": "www.sudiplahiri.com"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-04-22T06:51:53.345Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b7b93b8611bce87e0656df2def22c44e",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9e7f3fd8-a466-5949-be74-d737fdbe32d2": {
+      "id": "9e7f3fd8-a466-5949-be74-d737fdbe32d2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "74e044b312aec366111674b3af2fd656",
+        "type": "Directory",
+        "description": "Directory \"data\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-04-17T17:18:20.774Z",
+      "accessTime": "2019-04-22T06:52:00.311Z",
+      "changeTime": "2019-04-17T17:18:20.774Z",
+      "birthTime": "2019-04-17T17:18:20.697Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion",
+      "base": "data",
+      "ext": "",
+      "name": "data",
+      "relativeDirectory": "..",
+      "dev": 279373861,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980510506,
+      "atimeMs": 1555915920310.778,
+      "mtimeMs": 1555521500774.4966,
+      "ctimeMs": 1555521500774.4966,
+      "birthtimeMs": 1555521500697.295,
+      "atime": "2019-04-22T06:52:00.311Z",
+      "mtime": "2019-04-17T17:18:20.774Z",
+      "ctime": "2019-04-17T17:18:20.774Z",
+      "birthtime": "2019-04-17T17:18:20.697Z"
+    },
+    "6866756e-5200-519b-ab02-98a7bba3bf93": {
+      "id": "6866756e-5200-519b-ab02-98a7bba3bf93",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a40468a886dc21e9bb5fc84872629150",
+        "type": "Directory",
+        "description": "Directory \"data\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-04-22T05:39:11.378Z",
+      "accessTime": "2019-04-22T06:52:00.312Z",
+      "changeTime": "2019-04-22T05:39:11.378Z",
+      "birthTime": "2019-04-17T17:18:20.697Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980510507,
+      "atimeMs": 1555915920311.7812,
+      "mtimeMs": 1555911551378.4692,
+      "ctimeMs": 1555911551378.4692,
+      "birthtimeMs": 1555521500697.295,
+      "atime": "2019-04-22T06:52:00.312Z",
+      "mtime": "2019-04-22T05:39:11.378Z",
+      "ctime": "2019-04-22T05:39:11.378Z",
+      "birthtime": "2019-04-17T17:18:20.697Z"
+    },
+    "599eed4d-37c4-512a-87e1-8e62e863fb6f": {
+      "id": "599eed4d-37c4-512a-87e1-8e62e863fb6f",
+      "children": [
+        "53cc9365-61fe-58a8-937c-caa3571bb988",
+        "d6a551e5-a30a-5619-b315-fb21711843cb",
+        "97fcda75-b3be-571c-a071-83d055bb1c30",
+        "607f1291-6a2d-5b95-b6b8-919ab61d72a5",
+        "5de304cc-5751-5661-b327-1999fb37163d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "98a296bca7360e505209d945e2b174cb",
+        "type": "File",
+        "mediaType": "application/json",
+        "description": "File \"data\\projects.json\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/projects.json",
+      "relativePath": "projects.json",
+      "extension": "json",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-04-22T07:28:01.824Z",
+      "accessTime": "2019-04-22T07:28:01.823Z",
+      "changeTime": "2019-04-22T07:28:01.824Z",
+      "birthTime": "2019-04-17T17:18:20.774Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data",
+      "base": "projects.json",
+      "ext": ".json",
+      "name": "projects",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980510515,
+      "atimeMs": 1555918081822.6216,
+      "mtimeMs": 1555918081823.6362,
+      "ctimeMs": 1555918081823.6362,
+      "birthtimeMs": 1555521500774.4966,
+      "atime": "2019-04-22T07:28:01.823Z",
+      "mtime": "2019-04-22T07:28:01.824Z",
+      "ctime": "2019-04-22T07:28:01.824Z",
+      "birthtime": "2019-04-17T17:18:20.774Z"
+    },
+    "e20bfcae-a971-56bf-9eac-906689d57a70": {
+      "id": "e20bfcae-a971-56bf-9eac-906689d57a70",
+      "children": [
+        "45727fc3-6f42-5bb7-ba12-e97373275a44"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3f1cdc18b562509c4a8ac7e7f488805e",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof2.jpg",
+      "relativePath": "images/prof2.jpg",
+      "extension": "jpg",
+      "size": 55337,
+      "prettySize": "55.3 kB",
+      "modifiedTime": "2019-04-21T14:30:27.906Z",
+      "accessTime": "2019-04-22T06:44:34.164Z",
+      "changeTime": "2019-04-21T14:55:52.519Z",
+      "birthTime": "2019-04-21T14:37:30.656Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof2.jpg",
+      "ext": ".jpg",
+      "name": "prof2",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553357,
+      "atimeMs": 1555915474163.883,
+      "mtimeMs": 1555857027905.786,
+      "ctimeMs": 1555858552519.3525,
+      "birthtimeMs": 1555857450655.5247,
+      "atime": "2019-04-22T06:44:34.164Z",
+      "mtime": "2019-04-21T14:30:27.906Z",
+      "ctime": "2019-04-21T14:55:52.519Z",
+      "birthtime": "2019-04-21T14:37:30.656Z"
+    },
+    "3b1d322d-ac42-5b85-9f6a-01c452eba0f7": {
+      "id": "3b1d322d-ac42-5b85-9f6a-01c452eba0f7",
+      "children": [
+        "ef259d89-fc7e-580f-b438-e5886149a4ef"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "77b0383b0bddff5b68fea6dc5073af32",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof1.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof1.jpg",
+      "relativePath": "images/prof1.jpg",
+      "extension": "jpg",
+      "size": 60925,
+      "prettySize": "60.9 kB",
+      "modifiedTime": "2019-04-21T14:30:02.444Z",
+      "accessTime": "2019-04-22T06:44:34.160Z",
+      "changeTime": "2019-04-21T14:55:52.516Z",
+      "birthTime": "2019-04-21T14:37:30.642Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof1.jpg",
+      "ext": ".jpg",
+      "name": "prof1",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553356,
+      "atimeMs": 1555915474159.872,
+      "mtimeMs": 1555857002443.7688,
+      "ctimeMs": 1555858552516.344,
+      "birthtimeMs": 1555857450642.4854,
+      "atime": "2019-04-22T06:44:34.160Z",
+      "mtime": "2019-04-21T14:30:02.444Z",
+      "ctime": "2019-04-21T14:55:52.516Z",
+      "birthtime": "2019-04-21T14:37:30.642Z"
+    },
+    "5e23fa4f-3c5a-532e-8f75-0fb276c51c9d": {
+      "id": "5e23fa4f-3c5a-532e-8f75-0fb276c51c9d",
+      "children": [
+        "19fa4a3f-2d62-54b0-94f4-c25d6ff6d695"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3f1cdc18b562509c4a8ac7e7f488805e",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof4.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof4.jpg",
+      "relativePath": "images/prof4.jpg",
+      "extension": "jpg",
+      "size": 55337,
+      "prettySize": "55.3 kB",
+      "modifiedTime": "2019-04-21T14:30:27.453Z",
+      "accessTime": "2019-04-22T06:17:08.834Z",
+      "changeTime": "2019-04-21T14:55:52.525Z",
+      "birthTime": "2019-04-21T14:37:30.676Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof4.jpg",
+      "ext": ".jpg",
+      "name": "prof4",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553359,
+      "atimeMs": 1555913828833.7446,
+      "mtimeMs": 1555857027452.8528,
+      "ctimeMs": 1555858552525.3699,
+      "birthtimeMs": 1555857450675.5806,
+      "atime": "2019-04-22T06:17:08.834Z",
+      "mtime": "2019-04-21T14:30:27.453Z",
+      "ctime": "2019-04-21T14:55:52.525Z",
+      "birthtime": "2019-04-21T14:37:30.676Z"
+    },
+    "4d3c2f6c-d6e7-590c-9f8a-04c2a2c4b03e": {
+      "id": "4d3c2f6c-d6e7-590c-9f8a-04c2a2c4b03e",
+      "children": [
+        "f039b035-e06e-57d3-b913-3a7d04b07a6e"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c38377006c84fbf8382268e421813630",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof6.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof6.jpg",
+      "relativePath": "images/prof6.jpg",
+      "extension": "jpg",
+      "size": 59357,
+      "prettySize": "59.4 kB",
+      "modifiedTime": "2019-04-21T14:30:10.947Z",
+      "accessTime": "2019-04-22T06:17:08.834Z",
+      "changeTime": "2019-04-21T14:55:52.531Z",
+      "birthTime": "2019-04-21T14:37:30.695Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof6.jpg",
+      "ext": ".jpg",
+      "name": "prof6",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553361,
+      "atimeMs": 1555913828833.7446,
+      "mtimeMs": 1555857010947.3599,
+      "ctimeMs": 1555858552531.3855,
+      "birthtimeMs": 1555857450694.629,
+      "atime": "2019-04-22T06:17:08.834Z",
+      "mtime": "2019-04-21T14:30:10.947Z",
+      "ctime": "2019-04-21T14:55:52.531Z",
+      "birthtime": "2019-04-21T14:37:30.695Z"
+    },
+    "5fb0c90e-89d7-53b3-97e0-0fe620b32527": {
+      "id": "5fb0c90e-89d7-53b3-97e0-0fe620b32527",
+      "children": [
+        "c89780fe-3fae-519b-aac7-ea7a77f451b3"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "54411a41a8eac97fc07ef10e36ef2409",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof3.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof3.jpg",
+      "relativePath": "images/prof3.jpg",
+      "extension": "jpg",
+      "size": 77702,
+      "prettySize": "77.7 kB",
+      "modifiedTime": "2019-04-21T14:30:42.996Z",
+      "accessTime": "2019-04-22T06:44:34.163Z",
+      "changeTime": "2019-04-21T14:55:52.522Z",
+      "birthTime": "2019-04-21T14:37:30.665Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof3.jpg",
+      "ext": ".jpg",
+      "name": "prof3",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553358,
+      "atimeMs": 1555915474162.8792,
+      "mtimeMs": 1555857042995.7214,
+      "ctimeMs": 1555858552522.3608,
+      "birthtimeMs": 1555857450664.5515,
+      "atime": "2019-04-22T06:44:34.163Z",
+      "mtime": "2019-04-21T14:30:42.996Z",
+      "ctime": "2019-04-21T14:55:52.522Z",
+      "birthtime": "2019-04-21T14:37:30.665Z"
+    },
+    "9df66a8a-0269-5b5e-a1ea-dbe63a7a1bfc": {
+      "id": "9df66a8a-0269-5b5e-a1ea-dbe63a7a1bfc",
+      "children": [
+        "ee8a85b0-e32c-5f04-8559-cbbbe5ac875e"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7adeaf0c83e6f04c8a7e589837b6e482",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof5.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof5.jpg",
+      "relativePath": "images/prof5.jpg",
+      "extension": "jpg",
+      "size": 69862,
+      "prettySize": "69.9 kB",
+      "modifiedTime": "2019-04-21T14:30:17.988Z",
+      "accessTime": "2019-04-22T06:44:34.162Z",
+      "changeTime": "2019-04-21T14:55:52.528Z",
+      "birthTime": "2019-04-21T14:37:30.686Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof5.jpg",
+      "ext": ".jpg",
+      "name": "prof5",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553360,
+      "atimeMs": 1555915474161.8782,
+      "mtimeMs": 1555857017987.812,
+      "ctimeMs": 1555858552528.377,
+      "birthtimeMs": 1555857450685.6055,
+      "atime": "2019-04-22T06:44:34.162Z",
+      "mtime": "2019-04-21T14:30:17.988Z",
+      "ctime": "2019-04-21T14:55:52.528Z",
+      "birthtime": "2019-04-21T14:37:30.686Z"
+    },
+    "45727fc3-6f42-5bb7-ba12-e97373275a44": {
+      "id": "45727fc3-6f42-5bb7-ba12-e97373275a44",
+      "children": [],
+      "parent": "e20bfcae-a971-56bf-9eac-906689d57a70",
+      "internal": {
+        "contentDigest": "3f1cdc18b562509c4a8ac7e7f488805e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "ef259d89-fc7e-580f-b438-e5886149a4ef": {
+      "id": "ef259d89-fc7e-580f-b438-e5886149a4ef",
+      "children": [],
+      "parent": "3b1d322d-ac42-5b85-9f6a-01c452eba0f7",
+      "internal": {
+        "contentDigest": "77b0383b0bddff5b68fea6dc5073af32",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "19fa4a3f-2d62-54b0-94f4-c25d6ff6d695": {
+      "id": "19fa4a3f-2d62-54b0-94f4-c25d6ff6d695",
+      "children": [],
+      "parent": "5e23fa4f-3c5a-532e-8f75-0fb276c51c9d",
+      "internal": {
+        "contentDigest": "3f1cdc18b562509c4a8ac7e7f488805e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f039b035-e06e-57d3-b913-3a7d04b07a6e": {
+      "id": "f039b035-e06e-57d3-b913-3a7d04b07a6e",
+      "children": [],
+      "parent": "4d3c2f6c-d6e7-590c-9f8a-04c2a2c4b03e",
+      "internal": {
+        "contentDigest": "c38377006c84fbf8382268e421813630",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c89780fe-3fae-519b-aac7-ea7a77f451b3": {
+      "id": "c89780fe-3fae-519b-aac7-ea7a77f451b3",
+      "children": [],
+      "parent": "5fb0c90e-89d7-53b3-97e0-0fe620b32527",
+      "internal": {
+        "contentDigest": "54411a41a8eac97fc07ef10e36ef2409",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "ee8a85b0-e32c-5f04-8559-cbbbe5ac875e": {
+      "id": "ee8a85b0-e32c-5f04-8559-cbbbe5ac875e",
+      "children": [],
+      "parent": "9df66a8a-0269-5b5e-a1ea-dbe63a7a1bfc",
+      "internal": {
+        "contentDigest": "7adeaf0c83e6f04c8a7e589837b6e482",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c5af23a5-f83f-529d-8346-807daa8d7450": {
+      "id": "c5af23a5-f83f-529d-8346-807daa8d7450",
+      "children": [
+        "90e1c75f-e571-57c1-a3eb-1c94b6d8af63"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6756362720cbc20f8e825af26f3f7aaa",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof7.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof7.jpg",
+      "relativePath": "images/prof7.jpg",
+      "extension": "jpg",
+      "size": 514164,
+      "prettySize": "514 kB",
+      "modifiedTime": "2019-04-15T16:26:54.723Z",
+      "accessTime": "2019-04-22T06:17:08.853Z",
+      "changeTime": "2019-04-21T14:55:52.512Z",
+      "birthTime": "2019-04-21T14:42:12.629Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof7.jpg",
+      "ext": ".jpg",
+      "name": "prof7",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553362,
+      "atimeMs": 1555913828852.7952,
+      "mtimeMs": 1555345614723.1255,
+      "ctimeMs": 1555858552512.3347,
+      "birthtimeMs": 1555857732629.2007,
+      "atime": "2019-04-22T06:17:08.853Z",
+      "mtime": "2019-04-15T16:26:54.723Z",
+      "ctime": "2019-04-21T14:55:52.512Z",
+      "birthtime": "2019-04-21T14:42:12.629Z"
+    },
+    "ada88971-19a9-55c2-a12c-6bc294a2102e": {
+      "id": "ada88971-19a9-55c2-a12c-6bc294a2102e",
+      "children": [
+        "059ae2f8-0463-5dbb-a071-06a94b178944"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d8e9b6e6c1f5bfbb860ff0d9f6116f2",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data\\images\\prof8.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof8.jpg",
+      "relativePath": "images/prof8.jpg",
+      "extension": "jpg",
+      "size": 484873,
+      "prettySize": "485 kB",
+      "modifiedTime": "2019-04-15T16:42:49.478Z",
+      "accessTime": "2019-04-22T06:17:08.836Z",
+      "changeTime": "2019-04-22T05:36:17.430Z",
+      "birthTime": "2019-04-22T05:36:07.023Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof8.jpg",
+      "ext": ".jpg",
+      "name": "prof8",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374887396032,
+      "atimeMs": 1555913828835.752,
+      "mtimeMs": 1555346569477.9744,
+      "ctimeMs": 1555911377430.155,
+      "birthtimeMs": 1555911367023.0652,
+      "atime": "2019-04-22T06:17:08.836Z",
+      "mtime": "2019-04-15T16:42:49.478Z",
+      "ctime": "2019-04-22T05:36:17.430Z",
+      "birthtime": "2019-04-22T05:36:07.023Z"
+    },
+    "90e1c75f-e571-57c1-a3eb-1c94b6d8af63": {
+      "id": "90e1c75f-e571-57c1-a3eb-1c94b6d8af63",
+      "children": [],
+      "parent": "c5af23a5-f83f-529d-8346-807daa8d7450",
+      "internal": {
+        "contentDigest": "6756362720cbc20f8e825af26f3f7aaa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "059ae2f8-0463-5dbb-a071-06a94b178944": {
+      "id": "059ae2f8-0463-5dbb-a071-06a94b178944",
+      "children": [],
+      "parent": "ada88971-19a9-55c2-a12c-6bc294a2102e",
+      "internal": {
+        "contentDigest": "8d8e9b6e6c1f5bfbb860ff0d9f6116f2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "e1c4b6a2-d96b-58c6-9ab3-7ffc432ef286": {
+      "id": "e1c4b6a2-d96b-58c6-9ab3-7ffc432ef286",
+      "children": [
+        "f73cef0d-f4bf-5bc9-80fc-b619eef5bf41"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2f02687d8a43272dc744e03e6476dde7",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"data\\images\\prof9.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "F:/gatsby/portfolion/data/images/prof9.png",
+      "relativePath": "images/prof9.png",
+      "extension": "png",
+      "size": 890709,
+      "prettySize": "891 kB",
+      "modifiedTime": "2019-04-22T05:39:11.447Z",
+      "accessTime": "2019-04-22T06:40:50.448Z",
+      "changeTime": "2019-04-22T05:39:11.447Z",
+      "birthTime": "2019-04-22T05:38:30.135Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/data/images",
+      "base": "prof9.png",
+      "ext": ".png",
+      "name": "prof9",
+      "relativeDirectory": "images",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 844424933974780,
+      "atimeMs": 1555915250447.9077,
+      "mtimeMs": 1555911551446.6526,
+      "ctimeMs": 1555911551446.6526,
+      "birthtimeMs": 1555911510135.3005,
+      "atime": "2019-04-22T06:40:50.448Z",
+      "mtime": "2019-04-22T05:39:11.447Z",
+      "ctime": "2019-04-22T05:39:11.447Z",
+      "birthtime": "2019-04-22T05:38:30.135Z"
+    },
+    "f73cef0d-f4bf-5bc9-80fc-b619eef5bf41": {
+      "id": "f73cef0d-f4bf-5bc9-80fc-b619eef5bf41",
+      "children": [],
+      "parent": "e1c4b6a2-d96b-58c6-9ab3-7ffc432ef286",
+      "internal": {
+        "contentDigest": "2f02687d8a43272dc744e03e6476dde7",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "55e03ea7-712f-514d-9929-d716ca9705ba": {
+      "id": "55e03ea7-712f-514d-9929-d716ca9705ba",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e4dd3506f1e7578e3bab7fa0abe9c5ac",
+        "type": "Directory",
+        "description": "Directory \"src\\static\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-04-21T14:55:52.530Z",
+      "accessTime": "2019-04-22T06:52:00.514Z",
+      "changeTime": "2019-04-21T14:55:52.530Z",
+      "birthTime": "2019-04-17T17:18:20.793Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 279373861,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980510541,
+      "atimeMs": 1555915920514.318,
+      "mtimeMs": 1555858552530.3828,
+      "ctimeMs": 1555858552530.3828,
+      "birthtimeMs": 1555521500792.5442,
+      "atime": "2019-04-22T06:52:00.514Z",
+      "mtime": "2019-04-21T14:55:52.530Z",
+      "ctime": "2019-04-21T14:55:52.530Z",
+      "birthtime": "2019-04-17T17:18:20.793Z"
+    },
+    "e3cfb627-1c70-5b3a-b933-3b731ffa80b2": {
+      "id": "e3cfb627-1c70-5b3a-b933-3b731ffa80b2",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "02ad6cb403c86f283be8ef624d9f6076",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\static\\images\\body-background.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/body-background.svg",
+      "relativePath": "body-background.svg",
+      "extension": "svg",
+      "size": 14033,
+      "prettySize": "14 kB",
+      "modifiedTime": "2019-04-17T17:18:20.794Z",
+      "accessTime": "2019-04-22T06:17:08.882Z",
+      "changeTime": "2019-04-17T18:07:52.947Z",
+      "birthTime": "2019-04-17T17:18:20.794Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images",
+      "base": "body-background.svg",
+      "ext": ".svg",
+      "name": "body-background",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980510542,
+      "atimeMs": 1555913828881.872,
+      "mtimeMs": 1555521500793.5469,
+      "ctimeMs": 1555524472946.7864,
+      "birthtimeMs": 1555521500793.5469,
+      "atime": "2019-04-22T06:17:08.882Z",
+      "mtime": "2019-04-17T17:18:20.794Z",
+      "ctime": "2019-04-17T18:07:52.947Z",
+      "birthtime": "2019-04-17T17:18:20.794Z"
+    },
+    "6a008133-2090-51ac-998c-be14755d385e": {
+      "id": "6a008133-2090-51ac-998c-be14755d385e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eaecb85e9592dac3b18e8e60b521c5a5",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src\\static\\images\\heart.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/heart.svg",
+      "relativePath": "heart.svg",
+      "extension": "svg",
+      "size": 977,
+      "prettySize": "977 B",
+      "modifiedTime": "2019-04-17T17:18:20.794Z",
+      "accessTime": "2019-04-22T06:17:08.884Z",
+      "changeTime": "2019-04-17T17:18:20.794Z",
+      "birthTime": "2019-04-17T17:18:20.794Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images",
+      "base": "heart.svg",
+      "ext": ".svg",
+      "name": "heart",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980510543,
+      "atimeMs": 1555913828883.8777,
+      "mtimeMs": 1555521500793.5469,
+      "ctimeMs": 1555521500793.5469,
+      "birthtimeMs": 1555521500793.5469,
+      "atime": "2019-04-22T06:17:08.884Z",
+      "mtime": "2019-04-17T17:18:20.794Z",
+      "ctime": "2019-04-17T17:18:20.794Z",
+      "birthtime": "2019-04-17T17:18:20.794Z"
+    },
+    "eb8112c9-79de-5e98-a500-177631280770": {
+      "id": "eb8112c9-79de-5e98-a500-177631280770",
+      "children": [
+        "e427675e-cc77-5235-b525-8d26f4664394"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ab418ed27fbf61042a5b5bdb48672ed1",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\static\\images\\sudip.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/sudip.png",
+      "relativePath": "sudip.png",
+      "extension": "png",
+      "size": 6861,
+      "prettySize": "6.86 kB",
+      "modifiedTime": "2019-02-21T13:44:15.579Z",
+      "accessTime": "2019-04-22T06:40:50.418Z",
+      "changeTime": "2019-04-05T19:11:13.648Z",
+      "birthTime": "2019-04-17T17:29:33.798Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images",
+      "base": "sudip.png",
+      "ext": ".png",
+      "name": "sudip",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980552830,
+      "atimeMs": 1555915250417.8296,
+      "mtimeMs": 1550756655579.12,
+      "ctimeMs": 1554491473648.1587,
+      "birthtimeMs": 1555522173798.4236,
+      "atime": "2019-04-22T06:40:50.418Z",
+      "mtime": "2019-02-21T13:44:15.579Z",
+      "ctime": "2019-04-05T19:11:13.648Z",
+      "birthtime": "2019-04-17T17:29:33.798Z"
+    },
+    "88499242-c848-5c0f-bb07-3923da94f7e8": {
+      "id": "88499242-c848-5c0f-bb07-3923da94f7e8",
+      "children": [
+        "b0064576-f233-5d3a-bede-99f289ca3cc5"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e7286f24c8b955e9cf26fc9320db875f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\cover.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/cover.jpg",
+      "relativePath": "cover.jpg",
+      "extension": "jpg",
+      "size": 105843,
+      "prettySize": "106 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T06:17:15.506Z",
+      "changeTime": "2019-04-15T16:00:14.010Z",
+      "birthTime": "2019-04-17T17:48:25.147Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images",
+      "base": "cover.jpg",
+      "ext": ".jpg",
+      "name": "cover",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980553090,
+      "atimeMs": 1555913835506.2825,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555344014009.6792,
+      "birthtimeMs": 1555523305147.186,
+      "atime": "2019-04-22T06:17:15.506Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-15T16:00:14.010Z",
+      "birthtime": "2019-04-17T17:48:25.147Z"
+    },
+    "e427675e-cc77-5235-b525-8d26f4664394": {
+      "id": "e427675e-cc77-5235-b525-8d26f4664394",
+      "children": [],
+      "parent": "eb8112c9-79de-5e98-a500-177631280770",
+      "internal": {
+        "contentDigest": "ab418ed27fbf61042a5b5bdb48672ed1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "6d8dd35b-17ea-55b4-a165-6aff23d7ef5c": {
+      "id": "6d8dd35b-17ea-55b4-a165-6aff23d7ef5c",
+      "children": [
+        "0f18d63b-eabe-569a-8636-95406ddde4d1"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bc7e6811c592604047e87723f706b956",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\static\\images\\logo.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/logo.png",
+      "relativePath": "logo.png",
+      "extension": "png",
+      "size": 160610,
+      "prettySize": "161 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T06:17:09.278Z",
+      "changeTime": "2019-04-15T16:00:38.313Z",
+      "birthTime": "2019-04-17T17:29:56.687Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images",
+      "base": "logo.png",
+      "ext": ".png",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980552831,
+      "atimeMs": 1555913829277.9236,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555344038313.18,
+      "birthtimeMs": 1555522196687.361,
+      "atime": "2019-04-22T06:17:09.278Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-15T16:00:38.313Z",
+      "birthtime": "2019-04-17T17:29:56.687Z"
+    },
+    "b0064576-f233-5d3a-bede-99f289ca3cc5": {
+      "id": "b0064576-f233-5d3a-bede-99f289ca3cc5",
+      "children": [],
+      "parent": "88499242-c848-5c0f-bb07-3923da94f7e8",
+      "internal": {
+        "contentDigest": "e7286f24c8b955e9cf26fc9320db875f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "0f18d63b-eabe-569a-8636-95406ddde4d1": {
+      "id": "0f18d63b-eabe-569a-8636-95406ddde4d1",
+      "children": [],
+      "parent": "6d8dd35b-17ea-55b4-a165-6aff23d7ef5c",
+      "internal": {
+        "contentDigest": "bc7e6811c592604047e87723f706b956",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "F:/gatsby/portfolion/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "0631a192-23d3-5e9f-a21e-899e4ee3ae2d",
+      "pluginCreatorId": "0631a192-23d3-5e9f-a21e-899e4ee3ae2d",
+      "componentPath": "F:/gatsby/portfolion/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dcfa67bc8cdce14807d7592787245206",
+        "description": "0631a192-23d3-5e9f-a21e-899e4ee3ae2d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "53cc9365-61fe-58a8-937c-caa3571bb988": {
+      "name": "TGS solution",
+      "description": "The TGS solution is a  website for a software development company which deals with website development,custom software development ,ecommerce platform development etc. The website is built using next js framework. ",
+      "image": "images/prof1.jpg",
+      "link": "http://35.169.154.91:3000/",
+      "id": "53cc9365-61fe-58a8-937c-caa3571bb988",
+      "children": [],
+      "parent": "599eed4d-37c4-512a-87e1-8e62e863fb6f",
+      "internal": {
+        "contentDigest": "c326ed0e2b688d8abc13600434b3fa42",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "d6a551e5-a30a-5619-b315-fb21711843cb": {
+      "name": "Regular taste",
+      "description": "Today we are living in such a world where everyone wants to get what he/she wishes by one click, how about if we get hygenic foods at our door steps only by ordering from online with one click.Regular taste is a caffeshop website which brings customer closer to it.",
+      "image": "images/prof2.jpg",
+      "link": "https://regulartaste.netlify.com/",
+      "id": "d6a551e5-a30a-5619-b315-fb21711843cb",
+      "children": [],
+      "parent": "599eed4d-37c4-512a-87e1-8e62e863fb6f",
+      "internal": {
+        "contentDigest": "86b4acd3b004b1db7aa86f293b236aca",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "97fcda75-b3be-571c-a071-83d055bb1c30": {
+      "name": "Wecorporate",
+      "description": "The Wecorporate is a agency website which deals with digital marketing ,SEO ,Content marketing etc.  The website is built using next js framework and styled component.",
+      "image": "images/prof3.jpg",
+      "id": "97fcda75-b3be-571c-a071-83d055bb1c30",
+      "children": [],
+      "parent": "599eed4d-37c4-512a-87e1-8e62e863fb6f",
+      "internal": {
+        "contentDigest": "b1dea81da70f662176f64a3734449e9a",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "607f1291-6a2d-5b95-b6b8-919ab61d72a5": {
+      "name": "Spicein",
+      "description": "Spice in is a beautiful restaurant website for your business build with innovative ideas.Fine dining , casual eateries can be easily done by just viewing the menu section.  ",
+      "image": "images/prof5.jpg",
+      "link": "https://spicein.netlify.com/",
+      "id": "607f1291-6a2d-5b95-b6b8-919ab61d72a5",
+      "children": [],
+      "parent": "599eed4d-37c4-512a-87e1-8e62e863fb6f",
+      "internal": {
+        "contentDigest": "f956241c78cb771d935c3c4107413a19",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "5de304cc-5751-5661-b327-1999fb37163d": {
+      "name": "The cookbook",
+      "description": "Cooking becomes a very elegant profession now a days.But its very difficult for beginners as they dont know how do they start.The cookbook helps them out by blogging delicious recipies.",
+      "image": "images/prof9.png",
+      "link": "https://thecookbook.netlify.com/",
+      "id": "5de304cc-5751-5661-b327-1999fb37163d",
+      "children": [],
+      "parent": "599eed4d-37c4-512a-87e1-8e62e863fb6f",
+      "internal": {
+        "contentDigest": "a1597fbc5e6fce050d0e4e8070d6e2e9",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "ba94c42b-0dff-5f62-9868-6e67d5a5a9a8": {
+      "id": "ba94c42b-0dff-5f62-9868-6e67d5a5a9a8",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7816862b965566440834428d35346104",
+        "type": "Directory",
+        "description": "Directory \"src\\static\\images\\portfolio\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "relativePath": "portfolio",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-04-22T08:25:13.495Z",
+      "accessTime": "2019-04-22T08:25:14.523Z",
+      "changeTime": "2019-04-22T08:25:23.460Z",
+      "birthTime": "2019-04-22T08:25:13.495Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images",
+      "base": "portfolio",
+      "ext": "",
+      "name": "portfolio",
+      "relativeDirectory": "",
+      "dev": 279373861,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556493,
+      "atimeMs": 1555921514523.4014,
+      "mtimeMs": 1555921513494.9487,
+      "ctimeMs": 1555921523459.517,
+      "birthtimeMs": 1555921513494.9487,
+      "atime": "2019-04-22T08:25:14.523Z",
+      "mtime": "2019-04-22T08:25:13.495Z",
+      "ctime": "2019-04-22T08:25:23.460Z",
+      "birthtime": "2019-04-22T08:25:13.495Z"
+    },
+    "418ff540-04df-5516-ad37-a98a83ed671e": {
+      "id": "418ff540-04df-5516-ad37-a98a83ed671e",
+      "children": [
+        "5b7ee630-a1db-5e2b-af1e-06aed53fd78c"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9f0b8f1333c042bd19cf24a8e9e3b617",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\html5.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/html5.jpg",
+      "relativePath": "portfolio/html5.jpg",
+      "extension": "jpg",
+      "size": 54977,
+      "prettySize": "55 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.311Z",
+      "changeTime": "2019-04-22T08:26:00.781Z",
+      "birthTime": "2019-04-22T07:49:21.609Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "html5.jpg",
+      "ext": ".jpg",
+      "name": "html5",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556487,
+      "atimeMs": 1555921554311.3108,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560781.1494,
+      "birthtimeMs": 1555919361609.4937,
+      "atime": "2019-04-22T08:25:54.311Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.781Z",
+      "birthtime": "2019-04-22T07:49:21.609Z"
+    },
+    "9d1f20a3-9c7b-50ab-bf4f-149ee7cc9a9e": {
+      "id": "9d1f20a3-9c7b-50ab-bf4f-149ee7cc9a9e",
+      "children": [
+        "e41424ee-c669-50ed-81cc-4bbd9b11dc1a"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d3563ab2b815c654c0382308bc8733c8",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\ionic.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/ionic.jpg",
+      "relativePath": "portfolio/ionic.jpg",
+      "extension": "jpg",
+      "size": 46497,
+      "prettySize": "46.5 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.311Z",
+      "changeTime": "2019-04-22T08:26:00.785Z",
+      "birthTime": "2019-04-22T07:49:21.591Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "ionic.jpg",
+      "ext": ".jpg",
+      "name": "ionic",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556476,
+      "atimeMs": 1555921554311.3108,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560785.1594,
+      "birthtimeMs": 1555919361591.4473,
+      "atime": "2019-04-22T08:25:54.311Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.785Z",
+      "birthtime": "2019-04-22T07:49:21.591Z"
+    },
+    "6d1156ac-b225-5f8f-9361-caa4d8e31a40": {
+      "id": "6d1156ac-b225-5f8f-9361-caa4d8e31a40",
+      "children": [
+        "edd57c2e-3ec3-55dd-b586-340b459080f6"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "78f72635b58289fb58a8fedd68a11c8c",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\mongodb.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/mongodb.jpg",
+      "relativePath": "portfolio/mongodb.jpg",
+      "extension": "jpg",
+      "size": 56534,
+      "prettySize": "56.5 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.312Z",
+      "changeTime": "2019-04-22T08:26:00.790Z",
+      "birthTime": "2019-04-22T07:49:21.592Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "mongodb.jpg",
+      "ext": ".jpg",
+      "name": "mongodb",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556477,
+      "atimeMs": 1555921554312.3264,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560790.172,
+      "birthtimeMs": 1555919361592.4482,
+      "atime": "2019-04-22T08:25:54.312Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.790Z",
+      "birthtime": "2019-04-22T07:49:21.592Z"
+    },
+    "4b5faa5c-ac6c-5d40-b98c-20ce36b82e59": {
+      "id": "4b5faa5c-ac6c-5d40-b98c-20ce36b82e59",
+      "children": [
+        "64af4b7f-82cd-531d-a4f1-8d55b43ba79d"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3541ae82e98b67132d02705b30abdff7",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\next.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/next.jpg",
+      "relativePath": "portfolio/next.jpg",
+      "extension": "jpg",
+      "size": 55031,
+      "prettySize": "55 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.312Z",
+      "changeTime": "2019-04-22T08:26:00.794Z",
+      "birthTime": "2019-04-22T07:49:21.594Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "next.jpg",
+      "ext": ".jpg",
+      "name": "next",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556478,
+      "atimeMs": 1555921554312.3264,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560794.183,
+      "birthtimeMs": 1555919361594.454,
+      "atime": "2019-04-22T08:25:54.312Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.794Z",
+      "birthtime": "2019-04-22T07:49:21.594Z"
+    },
+    "0d8c42a0-b51f-5cb2-8dfe-f6028ba67852": {
+      "id": "0d8c42a0-b51f-5cb2-8dfe-f6028ba67852",
+      "children": [
+        "f46c0236-fdaa-5af5-80ff-65faecde7fa3"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5e4d61fee771b4b7ff72a0da38138333",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\static\\images\\portfolio\\next.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/next.png",
+      "relativePath": "portfolio/next.png",
+      "extension": "png",
+      "size": 48388,
+      "prettySize": "48.4 kB",
+      "modifiedTime": "2019-04-04T17:29:05.518Z",
+      "accessTime": "2019-04-22T08:25:54.312Z",
+      "changeTime": "2019-04-22T08:26:00.800Z",
+      "birthTime": "2019-04-22T07:49:21.595Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "next.png",
+      "ext": ".png",
+      "name": "next",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556479,
+      "atimeMs": 1555921554312.3264,
+      "mtimeMs": 1554398945518.1577,
+      "ctimeMs": 1555921560800.199,
+      "birthtimeMs": 1555919361595.4563,
+      "atime": "2019-04-22T08:25:54.312Z",
+      "mtime": "2019-04-04T17:29:05.518Z",
+      "ctime": "2019-04-22T08:26:00.800Z",
+      "birthtime": "2019-04-22T07:49:21.595Z"
+    },
+    "7a9edd7b-e88a-59db-9b32-15cb1a10d63e": {
+      "id": "7a9edd7b-e88a-59db-9b32-15cb1a10d63e",
+      "children": [
+        "c2f0c0fb-000d-5a3f-86e1-b4f52abf0b89"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fcea56d2e2ff7be3f4de72e215199031",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\nodejs.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/nodejs.jpg",
+      "relativePath": "portfolio/nodejs.jpg",
+      "extension": "jpg",
+      "size": 54752,
+      "prettySize": "54.8 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.313Z",
+      "changeTime": "2019-04-22T08:26:00.803Z",
+      "birthTime": "2019-04-22T07:49:21.598Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "nodejs.jpg",
+      "ext": ".jpg",
+      "name": "nodejs",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556480,
+      "atimeMs": 1555921554313.3264,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560803.2065,
+      "birthtimeMs": 1555919361598.4646,
+      "atime": "2019-04-22T08:25:54.313Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.803Z",
+      "birthtime": "2019-04-22T07:49:21.598Z"
+    },
+    "56ba9200-2fb8-5d0b-958f-d53eb0af8f52": {
+      "id": "56ba9200-2fb8-5d0b-958f-d53eb0af8f52",
+      "children": [
+        "1e712f95-1d62-5335-8050-7cf1a677721b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f58b6c666580d2378c788f2e438d74e3",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\python.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/python.jpg",
+      "relativePath": "portfolio/python.jpg",
+      "extension": "jpg",
+      "size": 54039,
+      "prettySize": "54 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.313Z",
+      "changeTime": "2019-04-22T08:26:00.809Z",
+      "birthTime": "2019-04-22T07:49:21.601Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "python.jpg",
+      "ext": ".jpg",
+      "name": "python",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556482,
+      "atimeMs": 1555921554313.3264,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560809.2227,
+      "birthtimeMs": 1555919361601.4731,
+      "atime": "2019-04-22T08:25:54.313Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.809Z",
+      "birthtime": "2019-04-22T07:49:21.601Z"
+    },
+    "682e2f76-a5cc-5133-ac7f-18cd93728d41": {
+      "id": "682e2f76-a5cc-5133-ac7f-18cd93728d41",
+      "children": [
+        "a9bc6e88-701c-519b-8049-845a1ebe3dfe"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3d2d2be0bebb185e9d0d27f9370a561a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\react.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/react.jpg",
+      "relativePath": "portfolio/react.jpg",
+      "extension": "jpg",
+      "size": 54676,
+      "prettySize": "54.7 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.314Z",
+      "changeTime": "2019-04-22T08:26:00.760Z",
+      "birthTime": "2019-04-22T07:49:21.602Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "react.jpg",
+      "ext": ".jpg",
+      "name": "react",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556483,
+      "atimeMs": 1555921554314.3193,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560760.0933,
+      "birthtimeMs": 1555919361602.4753,
+      "atime": "2019-04-22T08:25:54.314Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.760Z",
+      "birthtime": "2019-04-22T07:49:21.602Z"
+    },
+    "ce139fa3-786c-55c9-9a3c-fee09a0cc2ce": {
+      "id": "ce139fa3-786c-55c9-9a3c-fee09a0cc2ce",
+      "children": [
+        "3c541f01-2fda-5a13-a56b-686104b95ef7"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5edb54ad4afb7c241c938462eebbfa88",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\Grapthql.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/Grapthql.jpg",
+      "relativePath": "portfolio/Grapthql.jpg",
+      "extension": "jpg",
+      "size": 54780,
+      "prettySize": "54.8 kB",
+      "modifiedTime": "2019-04-14T05:04:28.000Z",
+      "accessTime": "2019-04-22T08:25:54.310Z",
+      "changeTime": "2019-04-22T08:26:00.771Z",
+      "birthTime": "2019-04-22T07:49:21.606Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "Grapthql.jpg",
+      "ext": ".jpg",
+      "name": "Grapthql",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556485,
+      "atimeMs": 1555921554310.2817,
+      "mtimeMs": 1555218268000,
+      "ctimeMs": 1555921560771.1223,
+      "birthtimeMs": 1555919361606.4863,
+      "atime": "2019-04-22T08:25:54.310Z",
+      "mtime": "2019-04-14T05:04:28.000Z",
+      "ctime": "2019-04-22T08:26:00.771Z",
+      "birthtime": "2019-04-22T07:49:21.606Z"
+    },
+    "b75cbbea-c0a2-5403-82da-dbd56875eae5": {
+      "id": "b75cbbea-c0a2-5403-82da-dbd56875eae5",
+      "children": [
+        "56937778-09ba-51c5-bc03-cdc5905c98a6"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "78d4491d252c5b9f5b8da1a40537763a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src\\static\\images\\portfolio\\gatsby.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/gatsby.jpg",
+      "relativePath": "portfolio/gatsby.jpg",
+      "extension": "jpg",
+      "size": 68165,
+      "prettySize": "68.2 kB",
+      "modifiedTime": "2019-04-05T18:21:52.567Z",
+      "accessTime": "2019-04-22T08:25:54.310Z",
+      "changeTime": "2019-04-22T08:26:00.766Z",
+      "birthTime": "2019-04-22T07:49:21.604Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "gatsby.jpg",
+      "ext": ".jpg",
+      "name": "gatsby",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556484,
+      "atimeMs": 1555921554310.2817,
+      "mtimeMs": 1554488512567.2322,
+      "ctimeMs": 1555921560766.113,
+      "birthtimeMs": 1555919361604.4807,
+      "atime": "2019-04-22T08:25:54.310Z",
+      "mtime": "2019-04-05T18:21:52.567Z",
+      "ctime": "2019-04-22T08:26:00.766Z",
+      "birthtime": "2019-04-22T07:49:21.604Z"
+    },
+    "28173ad4-5273-55cd-b0a6-65d574743653": {
+      "id": "28173ad4-5273-55cd-b0a6-65d574743653",
+      "children": [
+        "cd5bb222-cbe9-5011-8d31-d7af0795cf65"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8bad3b6464624b7ddc8e3bcb50af103c",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\static\\images\\portfolio\\html.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/html.png",
+      "relativePath": "portfolio/html.png",
+      "extension": "png",
+      "size": 42847,
+      "prettySize": "42.8 kB",
+      "modifiedTime": "2019-04-05T18:33:08.064Z",
+      "accessTime": "2019-04-22T08:25:54.311Z",
+      "changeTime": "2019-04-22T08:26:00.776Z",
+      "birthTime": "2019-04-22T07:49:21.607Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "html.png",
+      "ext": ".png",
+      "name": "html",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556486,
+      "atimeMs": 1555921554311.3108,
+      "mtimeMs": 1554489188064.3726,
+      "ctimeMs": 1555921560776.1348,
+      "birthtimeMs": 1555919361607.4883,
+      "atime": "2019-04-22T08:25:54.311Z",
+      "mtime": "2019-04-05T18:33:08.064Z",
+      "ctime": "2019-04-22T08:26:00.776Z",
+      "birthtime": "2019-04-22T07:49:21.607Z"
+    },
+    "5b7ee630-a1db-5e2b-af1e-06aed53fd78c": {
+      "id": "5b7ee630-a1db-5e2b-af1e-06aed53fd78c",
+      "children": [],
+      "parent": "418ff540-04df-5516-ad37-a98a83ed671e",
+      "internal": {
+        "contentDigest": "9f0b8f1333c042bd19cf24a8e9e3b617",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "e41424ee-c669-50ed-81cc-4bbd9b11dc1a": {
+      "id": "e41424ee-c669-50ed-81cc-4bbd9b11dc1a",
+      "children": [],
+      "parent": "9d1f20a3-9c7b-50ab-bf4f-149ee7cc9a9e",
+      "internal": {
+        "contentDigest": "d3563ab2b815c654c0382308bc8733c8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "edd57c2e-3ec3-55dd-b586-340b459080f6": {
+      "id": "edd57c2e-3ec3-55dd-b586-340b459080f6",
+      "children": [],
+      "parent": "6d1156ac-b225-5f8f-9361-caa4d8e31a40",
+      "internal": {
+        "contentDigest": "78f72635b58289fb58a8fedd68a11c8c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "64af4b7f-82cd-531d-a4f1-8d55b43ba79d": {
+      "id": "64af4b7f-82cd-531d-a4f1-8d55b43ba79d",
+      "children": [],
+      "parent": "4b5faa5c-ac6c-5d40-b98c-20ce36b82e59",
+      "internal": {
+        "contentDigest": "3541ae82e98b67132d02705b30abdff7",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f46c0236-fdaa-5af5-80ff-65faecde7fa3": {
+      "id": "f46c0236-fdaa-5af5-80ff-65faecde7fa3",
+      "children": [],
+      "parent": "0d8c42a0-b51f-5cb2-8dfe-f6028ba67852",
+      "internal": {
+        "contentDigest": "5e4d61fee771b4b7ff72a0da38138333",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c2f0c0fb-000d-5a3f-86e1-b4f52abf0b89": {
+      "id": "c2f0c0fb-000d-5a3f-86e1-b4f52abf0b89",
+      "children": [],
+      "parent": "7a9edd7b-e88a-59db-9b32-15cb1a10d63e",
+      "internal": {
+        "contentDigest": "fcea56d2e2ff7be3f4de72e215199031",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "1e712f95-1d62-5335-8050-7cf1a677721b": {
+      "id": "1e712f95-1d62-5335-8050-7cf1a677721b",
+      "children": [],
+      "parent": "56ba9200-2fb8-5d0b-958f-d53eb0af8f52",
+      "internal": {
+        "contentDigest": "f58b6c666580d2378c788f2e438d74e3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "0a3f592c-5a8f-518d-83a9-c5b0cb7b82e3": {
+      "id": "0a3f592c-5a8f-518d-83a9-c5b0cb7b82e3",
+      "children": [
+        "1616a81e-196c-5c40-acee-22fd7c2c0647"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "607b2078934ca9f65703ba99905a8dfc",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\static\\images\\portfolio\\nodejs.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "F:/gatsby/portfolion/src/static/images/portfolio/nodejs.png",
+      "relativePath": "portfolio/nodejs.png",
+      "extension": "png",
+      "size": 192459,
+      "prettySize": "192 kB",
+      "modifiedTime": "2019-04-04T17:30:44.071Z",
+      "accessTime": "2019-04-22T08:25:54.313Z",
+      "changeTime": "2019-04-22T08:26:00.806Z",
+      "birthTime": "2019-04-22T07:49:21.599Z",
+      "root": "F:/",
+      "dir": "F:/gatsby/portfolion/src/static/images/portfolio",
+      "base": "nodejs.png",
+      "ext": ".png",
+      "name": "nodejs",
+      "relativeDirectory": "portfolio",
+      "dev": 279373861,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474980556481,
+      "atimeMs": 1555921554313.3264,
+      "mtimeMs": 1554399044070.6426,
+      "ctimeMs": 1555921560806.214,
+      "birthtimeMs": 1555919361599.4673,
+      "atime": "2019-04-22T08:25:54.313Z",
+      "mtime": "2019-04-04T17:30:44.071Z",
+      "ctime": "2019-04-22T08:26:00.806Z",
+      "birthtime": "2019-04-22T07:49:21.599Z"
+    },
+    "a9bc6e88-701c-519b-8049-845a1ebe3dfe": {
+      "id": "a9bc6e88-701c-519b-8049-845a1ebe3dfe",
+      "children": [],
+      "parent": "682e2f76-a5cc-5133-ac7f-18cd93728d41",
+      "internal": {
+        "contentDigest": "3d2d2be0bebb185e9d0d27f9370a561a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "3c541f01-2fda-5a13-a56b-686104b95ef7": {
+      "id": "3c541f01-2fda-5a13-a56b-686104b95ef7",
+      "children": [],
+      "parent": "ce139fa3-786c-55c9-9a3c-fee09a0cc2ce",
+      "internal": {
+        "contentDigest": "5edb54ad4afb7c241c938462eebbfa88",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "56937778-09ba-51c5-bc03-cdc5905c98a6": {
+      "id": "56937778-09ba-51c5-bc03-cdc5905c98a6",
+      "children": [],
+      "parent": "b75cbbea-c0a2-5403-82da-dbd56875eae5",
+      "internal": {
+        "contentDigest": "78d4491d252c5b9f5b8da1a40537763a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "cd5bb222-cbe9-5011-8d31-d7af0795cf65": {
+      "id": "cd5bb222-cbe9-5011-8d31-d7af0795cf65",
+      "children": [],
+      "parent": "28173ad4-5273-55cd-b0a6-65d574743653",
+      "internal": {
+        "contentDigest": "8bad3b6464624b7ddc8e3bcb50af103c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "1616a81e-196c-5c40-acee-22fd7c2c0647": {
+      "id": "1616a81e-196c-5c40-acee-22fd7c2c0647",
+      "children": [],
+      "parent": "0a3f592c-5a8f-518d-83a9-c5b0cb7b82e3",
+      "internal": {
+        "contentDigest": "607b2078934ca9f65703ba99905a8dfc",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "d9a169065f2faef5dc0da2b2095264b9"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "eb8112c9-79de-5e98-a500-177631280770": [
+        "sq--src-components-banner-1-js"
+      ],
+      "3b1d322d-ac42-5b85-9f6a-01c452eba0f7": [
+        "sq--src-components-project-js"
+      ],
+      "e20bfcae-a971-56bf-9eac-906689d57a70": [
+        "sq--src-components-project-js"
+      ],
+      "5fb0c90e-89d7-53b3-97e0-0fe620b32527": [
+        "sq--src-components-project-js"
+      ],
+      "9df66a8a-0269-5b5e-a1ea-dbe63a7a1bfc": [
+        "sq--src-components-project-js"
+      ],
+      "e1c4b6a2-d96b-58c6-9ab3-7ffc432ef286": [
+        "sq--src-components-project-js"
+      ],
+      "e427675e-cc77-5235-b525-8d26f4664394": [
+        "sq--src-components-banner-1-js"
+      ],
+      "ef259d89-fc7e-580f-b438-e5886149a4ef": [
+        "sq--src-components-project-js"
+      ],
+      "45727fc3-6f42-5bb7-ba12-e97373275a44": [
+        "sq--src-components-project-js"
+      ],
+      "c89780fe-3fae-519b-aac7-ea7a77f451b3": [
+        "sq--src-components-project-js"
+      ],
+      "ee8a85b0-e32c-5f04-8559-cbbbe5ac875e": [
+        "sq--src-components-project-js"
+      ],
+      "f73cef0d-f4bf-5bc9-80fc-b619eef5bf41": [
+        "sq--src-components-project-js"
+      ],
+      "682e2f76-a5cc-5133-ac7f-18cd93728d41": [
+        "/",
+        "sq--src-components-portfolio-js"
+      ],
+      "a9bc6e88-701c-519b-8049-845a1ebe3dfe": [
+        "/",
+        "sq--src-components-portfolio-js"
+      ],
+      "0d8c42a0-b51f-5cb2-8dfe-f6028ba67852": [
+        "sq--src-components-portfolio-js"
+      ],
+      "0a3f592c-5a8f-518d-83a9-c5b0cb7b82e3": [
+        "sq--src-components-portfolio-js"
+      ],
+      "6d1156ac-b225-5f8f-9361-caa4d8e31a40": [
+        "sq--src-components-portfolio-js"
+      ],
+      "418ff540-04df-5516-ad37-a98a83ed671e": [
+        "sq--src-components-portfolio-js"
+      ],
+      "9d1f20a3-9c7b-50ab-bf4f-149ee7cc9a9e": [
+        "sq--src-components-portfolio-js"
+      ],
+      "b75cbbea-c0a2-5403-82da-dbd56875eae5": [
+        "sq--src-components-portfolio-js"
+      ],
+      "56ba9200-2fb8-5d0b-958f-d53eb0af8f52": [
+        "sq--src-components-portfolio-js"
+      ],
+      "f46c0236-fdaa-5af5-80ff-65faecde7fa3": [
+        "sq--src-components-portfolio-js"
+      ],
+      "1616a81e-196c-5c40-acee-22fd7c2c0647": [
+        "sq--src-components-portfolio-js"
+      ],
+      "edd57c2e-3ec3-55dd-b586-340b459080f6": [
+        "sq--src-components-portfolio-js"
+      ],
+      "5b7ee630-a1db-5e2b-af1e-06aed53fd78c": [
+        "sq--src-components-portfolio-js"
+      ],
+      "e41424ee-c669-50ed-81cc-4bbd9b11dc1a": [
+        "sq--src-components-portfolio-js"
+      ],
+      "56937778-09ba-51c5-bc03-cdc5905c98a6": [
+        "sq--src-components-portfolio-js"
+      ],
+      "1e712f95-1d62-5335-8050-7cf1a677721b": [
+        "sq--src-components-portfolio-js"
+      ]
+    },
+    "connections": {
+      "ProjectsJson": [
+        "sq--src-components-project-js"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-banner-js": 3750666794,
+    "sq--src-components-project-js": 1643232499,
+    "sq--src-components-banner-1-js": 1162569140,
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-portfolio-js": 3136041503
+  },
+  "components": {
+    "F:/gatsby/portfolion/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "F:/gatsby/portfolion/.cache/dev-404-page.js"
+    },
+    "F:/gatsby/portfolion/src/pages/index.js": {
+      "query": "",
+      "componentPath": "F:/gatsby/portfolion/src/pages/index.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-banner-1-js": {
+      "name": "profileImage",
+      "componentPath": "F:/gatsby/portfolion/src/components/banner1.js",
+      "id": "sq--src-components-banner-1-js",
+      "jsonName": "sq--src-components-banner-1-js",
+      "query": "query profileImage {\n  file(relativePath: {eq: \"sudip.png\"}) {\n    childImageSharp {\n      sizes(maxWidth: 450, maxHeight: 450) {\n        ...GatsbyImageSharpSizes\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpSizes on ImageSharpSizes {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 1162569140
+    },
+    "sq--src-components-project-js": {
+      "name": "projectList",
+      "componentPath": "F:/gatsby/portfolion/src/components/project.js",
+      "id": "sq--src-components-project-js",
+      "jsonName": "sq--src-components-project-js",
+      "query": "query projectList {\n  allProjectsJson {\n    edges {\n      node {\n        name\n        link\n        description\n        id\n        image {\n          childImageSharp {\n            fluid(maxHeight: 250) {\n              ...GatsbyImageSharpFluid\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 1643232499
+    },
+    "sq--src-components-portfolio-js": {
+      "name": "fGatsbyPortfolionSrcComponentsPortfolioJs3136041503",
+      "componentPath": "F:/gatsby/portfolion/src/components/portfolio.js",
+      "id": "sq--src-components-portfolio-js",
+      "jsonName": "sq--src-components-portfolio-js",
+      "query": "query fGatsbyPortfolionSrcComponentsPortfolioJs3136041503 {\n  img1: file(relativePath: {eq: \"portfolio/react.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img2: file(relativePath: {eq: \"portfolio/next.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img3: file(relativePath: {eq: \"portfolio/nodejs.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img4: file(relativePath: {eq: \"portfolio/mongodb.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img5: file(relativePath: {eq: \"portfolio/html5.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img6: file(relativePath: {eq: \"portfolio/ionic.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img7: file(relativePath: {eq: \"portfolio/gatsby.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n  img8: file(relativePath: {eq: \"portfolio/python.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 500) {\n        ...GatsbyImageSharpFluid_tracedSVG\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 3136041503
+    }
+  }
+}
