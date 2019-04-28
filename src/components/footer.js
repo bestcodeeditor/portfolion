@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 import { styles } from "../utils";
-import { FaInstagram, FaTwitter, FaFacebook } from "react-icons/fa";
+import { FaTwitter, FaFacebook, FaLinkedin } from "react-icons/fa";
 import { MdMailOutline, MdPhone } from "react-icons/md";
 
 export default class Footer extends Component {
@@ -19,8 +19,8 @@ export default class Footer extends Component {
       },
       {
         id: 3,
-        icon: <FaInstagram className="icon instagram-icon" />,
-        path: "https://www.instagram.com"
+        icon: <FaLinkedin className="icon linkedin-icon" />,
+        path: "https://in.linkedin.com/"
       }
     ]
   };
@@ -44,7 +44,7 @@ export default class Footer extends Component {
         <p className="copyright">
           {" "}
           <MdMailOutline className="icon" />
-          bestcodeeditor@gmail.com{" "}
+          sudiplahiri2009@gmail.com{" "}
         </p>
 
         <p className="copyright">

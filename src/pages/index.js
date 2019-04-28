@@ -11,6 +11,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./index.css";
 import Hero from "../components/banner2";
 import cover from "../static/images/cover.jpg";
+import Navbar from "../components/globals/Navbar";
 
 import { siteTitle, siteDescription, siteUrl } from "../../site-config";
 
@@ -49,8 +50,9 @@ export default () => {
         {siteDescription}
       </h1>
       <div className="container-fluid">
-        <Header />
-        <Hero header="Who Am I?" img={cover} />
+        <Navbar />
+        <Hero header="Sudip Lahiri" img={cover} />
+
         <About />
         <Projects />
         <hr className="large-hr" />

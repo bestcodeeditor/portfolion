@@ -24,9 +24,9 @@ const Hero = props => (
         }}
       >
         <p className="orange-text">
-          Hi I am Sudip Lahiri a fullstack engineer
+          Full Stack JavaScript professional & Tech Advocate
           <span className="hero__body--break">
-            I love coding and contineous research & development{" "}
+            I am constantly pursuing my passion to explore techworld{" "}
           </span>
           <span className="hero__body--break">
             <strong>Lets Work together</strong>
@@ -37,8 +37,8 @@ const Hero = props => (
         <Link to="#contact">Get in touch</Link>
       </div>
     </div>
-    <div className="card-body bg-dark shadow-lg mt-3">
-      <h5 className="card-heading">My skill box contains </h5>
+    <div className="card-body bg-dark shadow-lg mt-3  ">
+      <h5 className="card-heading">My skill box contains: </h5>
       <h2 className="card-color">
         Javascript, HTML5, CSS3, ReactJS,Redux, NodeJS, GraphQl, GatsbyJS,
         Bootstrap, DB(Mongodb, sql), Git, Webpack, Ionic, AngularJS, Rails6,

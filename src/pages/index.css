@@ -520,7 +520,7 @@ body {
 #about .jumbotron {
   background: white !important;
   color: black;
-  padding-top: 130px;
+  /* padding-top: 130px; */
 }
 
 #projects .jumbotron {
