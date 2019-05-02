@@ -157,7 +157,8 @@ body {
   border-radius: 3px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
-  box-shadow: none;
+  box-shadow: 7px 10px 5px 0px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -208,6 +209,8 @@ body {
 .card .card-body {
   padding: 0 20px;
   margin-top: 20px;
+  box-shadow: 7px 10px 5px 0px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
 }
 
 .card .card-media {
@@ -553,9 +556,12 @@ body {
 h2.card-text {
   font-size: 1rem;
 }
+h5.card-text {
+  text-align: center;
+}
 .section-title {
   text-align: center;
-  padding: 2px;
+  padding: 2px 5px;
   height: 150px;
 }
 #about .section-title {

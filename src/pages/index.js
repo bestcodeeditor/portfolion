@@ -15,9 +15,9 @@ import Navbar from "../components/globals/Navbar";
 
 import { siteTitle, siteDescription, siteUrl } from "../../site-config";
 
-import favicon32 from "../static/images/sudip.png";
-import favicon16 from "../static/images/sudip.png";
-import ogImage from "../static/images/sudip.png";
+import favicon32 from "../static/images/logo1.png";
+import favicon16 from "../static/images/logo1.png";
+import ogImage from "../static/images/logo1.png";
 
 export default () => {
   return (
@@ -29,7 +29,7 @@ export default () => {
           { property: "og:url", content: siteUrl },
           {
             property: "og:image",
-            content: "https://www.mojaave.com" + ogImage
+            content: "https://www.slcdev.netlify.com" + ogImage
           },
           { property: "og:title", content: siteTitle },
           { property: "og:type", content: "website" },
@@ -38,7 +38,7 @@ export default () => {
         link={[
           { rel: "icon", type: "image/png", sizes: "16x16", href: favicon16 },
           { rel: "icon", type: "image/png", sizes: "32x32", href: favicon32 },
-          { rel: "canonical", href: "https://www.mojaave.com" }
+          { rel: "canonical", href: "https://www.slcdev.netlify.com" }
         ]}
       />
       <h1 hidden>
@@ -52,7 +52,7 @@ export default () => {
       <div className="container-fluid">
         <Navbar />
         <Hero header="Sudip Lahiri" img={cover} />
-
+        <hr className="large-hr" />
         <About />
         <Projects />
         <hr className="large-hr" />

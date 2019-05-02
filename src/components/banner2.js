@@ -39,11 +39,11 @@ const Hero = props => (
     </div>
     <div className="card-body bg-dark shadow-lg mt-3  ">
       <h5 className="card-heading">My skill box contains: </h5>
-      <h2 className="card-color">
+      <h4 className="card-color">
         Javascript, HTML5, CSS3, ReactJS,Redux, NodeJS, GraphQl, GatsbyJS,
         Bootstrap, DB(Mongodb, sql), Git, Webpack, Ionic, AngularJS, Rails6,
         Django
-      </h2>
+      </h4>
     </div>
   </div>
 );

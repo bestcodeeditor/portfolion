@@ -89,35 +89,35 @@ const Portfolio = () => (
         <Section>
           <PortfolioWrapper>
             <div className="item item-1">
-              <Img fluid={img1} />
+              <Img fluid={img1} className="card-img-top" />
               <p className="info">profficiency 95%</p>
             </div>
             <div className="item item-2">
-              <Img fluid={img2} />
+              <Img fluid={img2} className="card-img-top" />
               <p className="info">profficiency 95%</p>
             </div>
             <div className="item item-3">
-              <Img fluid={img3} />
+              <Img fluid={img3} className="card-img-top" />
               <p className="info">profficiency 93%</p>
             </div>
             <div className="item item-4">
-              <Img fluid={img4} />
+              <Img fluid={img4} className="card-img-top" />
               <p className="info">profficiency 93%</p>
             </div>
             <div className="item item-5">
-              <Img fluid={img5} />
+              <Img fluid={img5} className="card-img-top" />
               <p className="info">profficiency 94%</p>
             </div>
             <div className="item item-6">
-              <Img fluid={img6} />
+              <Img fluid={img6} className="card-img-top" />
               <p className="info">profficiency 80%</p>
             </div>
             <div className="item item-7">
-              <Img fluid={img7} />
+              <Img fluid={img7} className="card-img-top" />
               <p className="info">profficiency 95%</p>
             </div>
             <div className="item item-8">
-              <Img fluid={img8} />
+              <Img fluid={img8} className="card-img-top" />
               <p className="info">profficiency 82%</p>
             </div>
           </PortfolioWrapper>
@@ -129,10 +129,23 @@ const Portfolio = () => (
 
 const PortfolioWrapper = styled.div`
   display: grid;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease-in-out;
   grid-template-columns: auto;
   grid-row-gap: 1rem;
   .item {
     position: relative;
+  }
+  .item:hover {
+    box-shadow: 7px 10px 5px 0px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+  }
+  .card-img-top {
+    transition: all 0.3s ease-in-out;
+  }
+  .item:hover .card-img-top {
+    transform: scale(1.15);
+    opacity: 0.8;
   }
   .info {
     position: absolute;

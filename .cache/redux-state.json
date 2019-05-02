@@ -1132,109 +1132,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "2543a21c-caec-5d69-9cd6-b43868802d23": {
-      "resolve": "E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-manifest",
-      "id": "2543a21c-caec-5d69-9cd6-b43868802d23",
-      "name": "gatsby-plugin-manifest",
-      "version": "2.0.12",
-      "pluginOptions": {
-        "plugins": [],
-        "name": "Sudip Lahiri, React Developer",
-        "short_name": "Sudip",
-        "start_url": "/",
-        "display": "standalone",
-        "icon": "E:\\2019 projects\\Gatsby\\portfolion/src/static/images/sudip.png",
-        "icons": [
-          {
-            "src": "/images/sudip.png",
-            "sizes": "48x48",
-            "type": "image/jpg"
-          },
-          {
-            "src": "/images/sudip.png",
-            "sizes": "192x192",
-            "type": "image/jpg"
-          },
-          {
-            "src": "/images/sudip.png",
-            "sizes": "512x512",
-            "type": "image/jpg"
-          }
-        ]
-      },
-      "nodeAPIs": [
-        "onPostBootstrap"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [
-        "onRenderBody"
-      ],
-      "pluginFilepath": "E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-manifest",
-      "packageJson": {
-        "name": "gatsby-plugin-manifest",
-        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
-        "version": "2.0.12",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "favicon",
-          "icons",
-          "manifest.webmanifest",
-          "progressive-web-app",
-          "pwa"
-        ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "sharp",
-            "version": "^0.21.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": ">2.0.0-alpha"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "66024b4bf535971f789082f7fcd30793",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
     "a0d96020-7a66-55f1-aaa4-e8f0ff5ae640": {
       "resolve": "E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-robots-txt",
       "id": "a0d96020-7a66-55f1-aaa4-e8f0ff5ae640",
@@ -1747,12 +1644,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-28T17:27:29.640Z",
+      "buildTime": "2019-05-02T16:36:41.648Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bc0a0ee74b362b11e215e5bb3ad39515",
+        "contentDigest": "fe79a25fbcf1b79389d36056a072698f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1762,7 +1659,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c5a0a533d411cba98ad080fb259b60d5",
+        "contentDigest": "9335f1244254572c0575bc8555ca9b40",
         "type": "Directory",
         "description": "Directory \"data\"",
         "owner": "gatsby-source-filesystem"
@@ -1774,7 +1671,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:20:41.707Z",
-      "accessTime": "2019-04-28T17:27:35.748Z",
+      "accessTime": "2019-05-02T16:36:47.325Z",
       "changeTime": "2019-04-22T09:20:41.707Z",
       "birthTime": "2019-04-22T09:20:41.705Z",
       "root": "E:/",
@@ -1790,11 +1687,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979823808,
-      "atimeMs": 1556472455747.627,
+      "atimeMs": 1556815007324.7747,
       "mtimeMs": 1555924841706.5505,
       "ctimeMs": 1555924841706.5505,
       "birthtimeMs": 1555924841704.5127,
-      "atime": "2019-04-28T17:27:35.748Z",
+      "atime": "2019-05-02T16:36:47.325Z",
       "mtime": "2019-04-22T09:20:41.707Z",
       "ctime": "2019-04-22T09:20:41.707Z",
       "birthtime": "2019-04-22T09:20:41.705Z"
@@ -1804,7 +1701,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "843381e2cd6f3ded291960757f346249",
+        "contentDigest": "3765c66f023ca8839c909f0e9450dba9",
         "type": "Directory",
         "description": "Directory \"data\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1816,7 +1713,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:20:41.720Z",
-      "accessTime": "2019-04-28T17:27:35.749Z",
+      "accessTime": "2019-05-02T16:36:47.326Z",
       "changeTime": "2019-04-22T09:20:41.720Z",
       "birthTime": "2019-04-22T09:20:41.707Z",
       "root": "E:/",
@@ -1832,11 +1729,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979823810,
-      "atimeMs": 1556472455748.6301,
+      "atimeMs": 1556815007325.7766,
       "mtimeMs": 1555924841719.7332,
       "ctimeMs": 1555924841719.7332,
       "birthtimeMs": 1555924841706.5505,
-      "atime": "2019-04-28T17:27:35.749Z",
+      "atime": "2019-05-02T16:36:47.326Z",
       "mtime": "2019-04-22T09:20:41.720Z",
       "ctime": "2019-04-22T09:20:41.720Z",
       "birthtime": "2019-04-22T09:20:41.707Z"
@@ -2459,7 +2356,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6ec454f74ceba7f653668d228a5eee2e",
+        "contentDigest": "a003741cfc3cabaaf2d657f5d4ec4c40",
         "type": "Directory",
         "description": "Directory \"src\\static\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -2470,9 +2367,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-04-22T09:21:44.120Z",
-      "accessTime": "2019-04-28T17:27:35.814Z",
-      "changeTime": "2019-04-28T15:56:14.328Z",
+      "modifiedTime": "2019-05-02T12:34:01.176Z",
+      "accessTime": "2019-05-02T16:36:47.380Z",
+      "changeTime": "2019-05-02T12:34:01.176Z",
       "birthTime": "2019-04-22T09:21:44.115Z",
       "root": "E:/",
       "dir": "E:/2019 projects/Gatsby/portfolion/src/static",
@@ -2487,13 +2384,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979869615,
-      "atimeMs": 1556472455813.8042,
-      "mtimeMs": 1555924904120.3887,
-      "ctimeMs": 1556466974327.8882,
+      "atimeMs": 1556815007379.9214,
+      "mtimeMs": 1556800441175.841,
+      "ctimeMs": 1556800441175.841,
       "birthtimeMs": 1555924904115.3752,
-      "atime": "2019-04-28T17:27:35.814Z",
-      "mtime": "2019-04-22T09:21:44.120Z",
-      "ctime": "2019-04-28T15:56:14.328Z",
+      "atime": "2019-05-02T16:36:47.380Z",
+      "mtime": "2019-05-02T12:34:01.176Z",
+      "ctime": "2019-05-02T12:34:01.176Z",
       "birthtime": "2019-04-22T09:21:44.115Z"
     },
     "743ebfec-8324-5121-bd4d-e6806226af79": {
@@ -2501,7 +2398,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d486a83e63eb72b84dbc2c3f1a925488",
+        "contentDigest": "f49ad3d8a878c25f8cd57075428ba3bb",
         "type": "Directory",
         "description": "Directory \"src\\static\\images\\portfolio\"",
         "owner": "gatsby-source-filesystem"
@@ -2513,7 +2410,7 @@
       "size": 0,
       "prettySize": "0 B",
       "modifiedTime": "2019-04-22T09:21:44.136Z",
-      "accessTime": "2019-04-28T17:27:35.804Z",
+      "accessTime": "2019-05-02T16:36:47.371Z",
       "changeTime": "2019-04-22T09:21:44.136Z",
       "birthTime": "2019-04-22T09:21:44.120Z",
       "root": "E:/",
@@ -2529,11 +2426,11 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979869621,
-      "atimeMs": 1556472455803.7783,
+      "atimeMs": 1556815007370.896,
       "mtimeMs": 1555924904136.4329,
       "ctimeMs": 1555924904136.4329,
       "birthtimeMs": 1555924904120.3887,
-      "atime": "2019-04-28T17:27:35.804Z",
+      "atime": "2019-05-02T16:36:47.371Z",
       "mtime": "2019-04-22T09:21:44.136Z",
       "ctime": "2019-04-22T09:21:44.136Z",
       "birthtime": "2019-04-22T09:21:44.120Z"
@@ -3316,7 +3213,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bc7e6811c592604047e87723f706b956",
+        "contentDigest": "02f05d991a6b5bd55f602a3524e52761",
         "type": "File",
         "mediaType": "image/png",
         "description": "File \"src\\static\\images\\logo.png\"",
@@ -3326,12 +3223,12 @@
       "absolutePath": "E:/2019 projects/Gatsby/portfolion/src/static/images/logo.png",
       "relativePath": "logo.png",
       "extension": "png",
-      "size": 160610,
-      "prettySize": "161 kB",
-      "modifiedTime": "2019-04-14T05:04:28.000Z",
-      "accessTime": "2019-04-22T10:23:10.726Z",
-      "changeTime": "2019-04-15T16:00:38.313Z",
-      "birthTime": "2019-04-22T09:21:44.118Z",
+      "size": 76615,
+      "prettySize": "76.6 kB",
+      "modifiedTime": "2019-05-02T12:32:41.636Z",
+      "accessTime": "2019-05-02T12:34:01.327Z",
+      "changeTime": "2019-05-02T12:34:01.176Z",
+      "birthTime": "2019-05-02T12:32:41.208Z",
       "root": "E:/",
       "dir": "E:/2019 projects/Gatsby/portfolion/src/static/images",
       "base": "logo.png",
@@ -3344,15 +3241,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 281474979869619,
-      "atimeMs": 1555928590725.7483,
-      "mtimeMs": 1555218268000,
-      "ctimeMs": 1555344038313.18,
-      "birthtimeMs": 1555924904118.3828,
-      "atime": "2019-04-22T10:23:10.726Z",
-      "mtime": "2019-04-14T05:04:28.000Z",
-      "ctime": "2019-04-15T16:00:38.313Z",
-      "birthtime": "2019-04-22T09:21:44.118Z"
+      "ino": 562949956665718,
+      "atimeMs": 1556800441327.127,
+      "mtimeMs": 1556800361636.353,
+      "ctimeMs": 1556800441175.841,
+      "birthtimeMs": 1556800361208.0232,
+      "atime": "2019-05-02T12:34:01.327Z",
+      "mtime": "2019-05-02T12:32:41.636Z",
+      "ctime": "2019-05-02T12:34:01.176Z",
+      "birthtime": "2019-05-02T12:32:41.208Z"
     },
     "05b1087a-9af9-5397-aa62-810a4d9c99e3": {
       "id": "05b1087a-9af9-5397-aa62-810a4d9c99e3",
@@ -3380,16 +3277,6 @@
       "parent": "dfa68130-d59b-5103-a3ad-3fe5c198dd76",
       "internal": {
         "contentDigest": "3d2d2be0bebb185e9d0d27f9370a561a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "83d588b5-b823-56e4-87f3-bcf4a1592c16": {
-      "id": "83d588b5-b823-56e4-87f3-bcf4a1592c16",
-      "children": [],
-      "parent": "e575a1fd-adfb-538d-a1b5-ee013601a1b9",
-      "internal": {
-        "contentDigest": "bc7e6811c592604047e87723f706b956",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -3449,6 +3336,119 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "83d588b5-b823-56e4-87f3-bcf4a1592c16": {
+      "id": "83d588b5-b823-56e4-87f3-bcf4a1592c16",
+      "children": [],
+      "parent": "e575a1fd-adfb-538d-a1b5-ee013601a1b9",
+      "internal": {
+        "contentDigest": "02f05d991a6b5bd55f602a3524e52761",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "37a51a0a-8442-5f38-b733-9b76f159943d": {
+      "resolve": "E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-manifest",
+      "id": "37a51a0a-8442-5f38-b733-9b76f159943d",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Sudip Lahiri, React Developer",
+        "short_name": "Sudip",
+        "start_url": "/",
+        "display": "standalone",
+        "icon": "E:\\2019 projects\\Gatsby\\portfolion/src/static/images/logo.png",
+        "icons": [
+          {
+            "src": "/images/sudip.png",
+            "sizes": "48x48",
+            "type": "image/jpg"
+          },
+          {
+            "src": "/images/sudip.png",
+            "sizes": "192x192",
+            "type": "image/jpg"
+          },
+          {
+            "src": "/images/sudip.png",
+            "sizes": "512x512",
+            "type": "image/jpg"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e9213ef458187925827947abef386222",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /": {
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
@@ -3467,6 +3467,61 @@
         "contentDigest": "5cb16b110be22441486aa86a43f16ca2",
         "description": "a0928195-b2a7-53ec-8924-2b8a6d595dd4",
         "owner": "internal-data-bridge"
+      }
+    },
+    "df2703a5-b9ca-53b9-b8fa-47eb1449dd61": {
+      "id": "df2703a5-b9ca-53b9-b8fa-47eb1449dd61",
+      "children": [
+        "ab7da8fa-7f61-5fb9-b201-34f8b7728798"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e2db766d8609be4813a2c4daeb090b4b",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src\\static\\images\\logo1.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "image",
+      "absolutePath": "E:/2019 projects/Gatsby/portfolion/src/static/images/logo1.png",
+      "relativePath": "logo1.png",
+      "extension": "png",
+      "size": 105008,
+      "prettySize": "105 kB",
+      "modifiedTime": "2019-05-02T16:38:56.494Z",
+      "accessTime": "2019-05-02T16:39:23.644Z",
+      "changeTime": "2019-05-02T16:39:32.373Z",
+      "birthTime": "2019-05-02T16:38:56.065Z",
+      "root": "E:/",
+      "dir": "E:/2019 projects/Gatsby/portfolion/src/static/images",
+      "base": "logo1.png",
+      "ext": ".png",
+      "name": "logo1",
+      "relativeDirectory": "",
+      "dev": 2896881377,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899910087054,
+      "atimeMs": 1556815163643.6375,
+      "mtimeMs": 1556815136494.01,
+      "ctimeMs": 1556815172373.119,
+      "birthtimeMs": 1556815136064.643,
+      "atime": "2019-05-02T16:39:23.644Z",
+      "mtime": "2019-05-02T16:38:56.494Z",
+      "ctime": "2019-05-02T16:39:32.373Z",
+      "birthtime": "2019-05-02T16:38:56.065Z"
+    },
+    "ab7da8fa-7f61-5fb9-b201-34f8b7728798": {
+      "id": "ab7da8fa-7f61-5fb9-b201-34f8b7728798",
+      "children": [],
+      "parent": "df2703a5-b9ca-53b9-b8fa-47eb1449dd61",
+      "internal": {
+        "contentDigest": "e2db766d8609be4813a2c4daeb090b4b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     }
   },

@@ -9,7 +9,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-138572525-1","head":true},
     },{
       plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Sudip Lahiri, React Developer","short_name":"Sudip","start_url":"/","display":"standalone","icon":"E:\\2019 projects\\Gatsby\\portfolion/src/static/images/sudip.png","icons":[{"src":"/images/sudip.png","sizes":"48x48","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"192x192","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"512x512","type":"image/jpg"}]},
+      options: {"plugins":[],"name":"Sudip Lahiri, React Developer","short_name":"Sudip","start_url":"/","display":"standalone","icon":"E:\\2019 projects\\Gatsby\\portfolion/src/static/images/logo.png","icons":[{"src":"/images/sudip.png","sizes":"48x48","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"192x192","type":"image/jpg"},{"src":"/images/sudip.png","sizes":"512x512","type":"image/jpg"}]},
     },{
       plugin: require('E:/2019 projects/Gatsby/portfolion/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
